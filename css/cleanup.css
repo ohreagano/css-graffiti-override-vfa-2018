@@ -5,10 +5,10 @@
   display: none;
 }
 
-/*
+/* This overrides peace-sign person */
 .parent  {
   display: none;
-}  */
+} 
 
 /* This overrides big gray writing */  
 #wall #tag-3.slick.wicked  {
