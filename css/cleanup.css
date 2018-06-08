@@ -6,7 +6,7 @@
 }
 
 /* This overrides peace-sign person */
-.parent #tag-6 {
+.parent {
   display: none;
 } 
 
