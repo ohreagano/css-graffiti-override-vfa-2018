@@ -15,6 +15,9 @@
   display: none;
 }
 
+#wall .slick {
+  display: none;
+}
 /*
 #wall #tag-4 {
   display: none;
