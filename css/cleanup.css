@@ -15,3 +15,7 @@
 #wall #tag-4 {
   display: none;
 }
+
+#wall .parent #tag-6 {
+  display: none;
+}
