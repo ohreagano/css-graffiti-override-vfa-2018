@@ -1,7 +1,12 @@
 /* write your override styles here */
 
-/* This overrides popsicle skull */
+/* This overrides Tag-1 */
 #wall .tag-1 {
+  display: none;
+}
+
+/* Tag-2 */
+#tag-2 {
   display: none;
 }
 
@@ -10,9 +15,6 @@
   display: none;
 }
 
-#tag-2 {
-  display: none;
-}
 
 /* This overrides peace-sign person */
 .parent {
