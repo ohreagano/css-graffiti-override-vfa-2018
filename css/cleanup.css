@@ -1,1 +1,22 @@
 /* write your override styles here */
+
+/* This overrides Tag-1 */
+#wall .tag-1 {
+  display: none;
+}
+
+/* Overrides Tag-2 */
+div#wall #tag-2 {
+  display: none;
+}
+
+/* This overrides Tag-3 */  
+#wall #tag-3.slick.wicked  {
+  display: none;
+}
+
+
+/* Overrides Tags 4+ */
+.parent {
+  display: none;
+} 
