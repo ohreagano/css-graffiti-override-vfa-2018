@@ -5,7 +5,7 @@
   display: none;
 }
 
-/* Tag-2 */
+/* Overrides Tag-2 */
 div#wall #tag-2 {
   display: none;
 }
@@ -16,7 +16,7 @@ div#wall #tag-2 {
 }
 
 
-/* This overrides peace-sign person */
+/* Overrides Tags 4+ */
 .parent {
   display: none;
 } 
